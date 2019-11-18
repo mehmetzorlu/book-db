@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+label {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: #333;
+  height:25px;
+  width: 100px;
+  margin-top: 10px;
+  text-align: left;
+  clear: both;
+}
+input {
+  height: 25px;
+  width: 700px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  float: right;
+}
+
+div.container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 25;
+  border-style: solid;
+  border-color: #0000b3;
+}
+
+button {
+  margin-bottom: 10px;
+}
